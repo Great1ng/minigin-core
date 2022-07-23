@@ -1,0 +1,2 @@
+# minigin-core
+Mini engine
